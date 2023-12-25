@@ -1,16 +1,16 @@
-@import "variables";
+@import 'variables';
 h1 {
-    color: $red_color;
+  color: $red_color;
 }
 
 header,
 footer {
-    color: $blue_color;
+  color: $blue_color;
 }
 
 .search-form {
-    width: 400px;
-    margin: 150px auto;
-    border: 1px solid #ccc;
-    padding: 20px;
+  width: 400px;
+  margin: 150px auto;
+  border: 1px solid #ccc;
+  padding: 20px;
 }
